@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  INTRODUCCION
+date: 2019-12-14 19:24:12 -0500
 description: La Ingeniería del Software es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.
-permalink: /introduccion/
 ---
 
 ## Definicion de Ingenieria en software
