@@ -1,39 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Fernando Jacome Blog</title>
-    <link rel="stylesheet" href={{ "assets/css/main.css" | relative_url }}>
-</head>
+---
+layout: default
+---
 
-<body>
-    <div class="title-area">
-        <img src={{ "assets/images/logo.png" | relative_url }} class="logo">
-    
-        <h1> {{ page.title }} </h1>
-       <p class="sub-title"> {{ page.description }}</p>
+<h2>Post Principal</h2>
 
-    </div>
+<ul class="myposts">
+    {% for post in site.posts limit:1 %}
+    <div class="blog-post">
+        <a class="blog__title" href="{{ post.url }}">{{ post.title }}</a>
+        <p class="post__desc">
+            {{ post.description }}
+        </p>
+        <a class="blog__link" href="{{ post.url }}">Leer mas</a>
+    </div> 
+    {% endfor %}
+</ul>
 
-     {{ content }} 
+{{ content }}
 
-     <footer class="footer-wrapper">
-        <div id="Contacts">
-            <h2>Contacts</h2>
-            <p>Si desea puede visitar mis redes sociales</p>
-        </div>
-        <div class="footer-social-links">
-            <a href="{{ site.facebook_username }}" target="_blank" class="social-icon-wrap footer-facebook-wrapper"></a>
-        </div>
-        <div class="footer-social-links1"> 
-            <a href="{{ site.twitter_username }}" target="_blank" class="social-icon-wrap footer-twitter-wrapper"></a>
-        </div>
-        <div class="footer-social-links2">  
-        <a href="{{ site.instagram_username }}" target="_blank" class="social-icon-wrap footer-instagram-wrapper"></a>
-        </div>
-        <a href="mailto:{{ site.email }}" class="footer-email">{{ site.email }}</a>
-    </footer>
-</body>
-</html>
+<section class="older-post">
+    <h2>Todo</h2>
+        {% for post in site.posts limit:9 %}    
+            <div class="blog-post">
+                <a class="blog__title" href="{{ post.url }}">{{ post.title }}</a>
+                <p class="post__desc">
+                    {{ post.description }}
+                </p>
+                <a class="blog__link" href="{{ post.url }}">Leer mas</a>
+            </div> 
+            {% endfor %}
+</section>
+
+<section class="sobre-mi">
+    <h2>Sobre Mí</h2>
+        {% for post in site.posts limit:1 offset:1 %}    
+            <div class="about-me">
+                <a class="page__title" href="{{ post.url }}">{{ post.title }}</a>
+                <p class="page__desc">
+                    {{ post.description }}
+                </p>
+                <a class="page__link" href="{{ post.url }}">Leer mas</a>
+            </div> 
+            {% endfor %}
+</section>
