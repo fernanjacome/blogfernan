@@ -16,6 +16,8 @@ layout: default
     {% endfor %}
 </ul>
 
+{{ content }}
+
 <section class="older-post">
     <h2>Todo</h2>
         {% for post in site.posts limit:9 %}    
