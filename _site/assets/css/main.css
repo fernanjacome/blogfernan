@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Girassol|Major+Mono+Display|Patua+One&display=swap");
+body { margin: 0; font-family: "Pathway Gothic One", sans-serif; display: grid; grid-template-columns: 1fr [container-start] repeat(7, minmax(50px, 260px)) [container-end] 1fr; grid-gap: 1em 2em; font-size: 1.2rem; }
+
+.title-area { background: #c2bda9; grid-column: 1 / 10; padding: 1em 0; text-align: center; color: #1b2c3e; margin-bottom: 2em; }
+
+.title { font-family: "Pathway Gothic One", sans-serif; text-transform: uppercase; font-size: 6rem; margin: 0; }
+
+p, h2, ul { grid-column: 3 / 8; margin: 0; }
+
+h2 { font-family: "Pathway Gothic One", sans-serif; text-transform: uppercase; }
+
+ul { margin: 0; padding: 0; list-style: none; }
+
+.blog__title { font-family: "Pathway Gothic One", sans-serif; font-size: 2em; line-height: 1; color: inherit; text-decoration: none; text-transform: uppercase; transition: opacity ease-out 200ms; }
+
+.blog__title:hover { opacity: .6; }
+
+.blog__link { display: inline-block; padding: .7em 2.4em; font-family: "Pathway Gothic One", sans-serif; color: #fff; text-decoration: none; text-transform: uppercase; background: #08121b; margin-top: 1em; }
+
+.blog__link:hover { transition: opacity ease-out 200ms; opacity: .6; background: #08121b; }
+
+.older-post { background-color: #e44742; grid-column: 1 / 10; padding: 3em; color: #1b2c3e; display: grid; grid-template-columns: inherit; grid-gap: inherit; margin-top: 3em; }
+
+.older-post h2, .older-post ul { grid-column: 2 / 8; }
+
+.sobre-mi { background-color: #c2bda9; grid-column: 1 / 10; padding: 3em; color: #1b2c3e; display: grid; text-align: center; grid-template-columns: center; grid-gap: center; margin-top: 2em; }
+
+.sobre-mi h2 { grid-column: 1 / 8; }
+
+.sobre-mi div { grid-column: 1 / 8; }
+
+.page__title { font-family: "Pathway Gothic One", sans-serif; font-size: 2em; line-height: 1; color: inherit; text-align: center; text-decoration: none; text-transform: uppercase; transition: opacity ease-out 200ms; }
+
+.page__title:hover { opacity: .6; }
+
+.page__link { display: inline-block; padding: .7em 2.4em; font-family: "Pathway Gothic One", sans-serif; color: #fff; text-decoration: none; text-transform: uppercase; background: #08121b; margin-top: 1em; }
+
+.page__link:hover { transition: opacity ease-out 200ms; opacity: .6; background: #08121b; }
+
+.blog-post { grid-column: span 2; }
+
+.blog-post:first-of-type { grid-column: 2 / 5; }
+
+footer { grid-column: 1 /10; background: #1b2c3e; color: #fff; text-align: center; padding: 2em 0; margin-top: 2em; }
+
+footer .footer-social-links { display: flex; flex-direction: row; justify-content: space-evenly; height: 50px; width: 100%; max-width: 0 0 25px 0; }
+
+footer .footer-social-links .social-icon-wrap { transition: all 0.2s ease-in; display: inline-block; height: 50px; width: 50px; overflow: hidden; background-size: 75%; background-position: center center; background-repeat: no-repeat; background-image: url("/assets/images/icons/fb.png"); }
+
+footer .footer-social-links:hover { transform: scale 0.95; }
+
+footer .footer-social-links1 { display: flex; flex-direction: row; justify-content: space-evenly; height: 50px; width: 100%; max-width: 0 0 25px 0; }
+
+footer .footer-social-links1 .social-icon-wrap { transition: all 0.2s ease-in; display: inline-block; height: 50px; width: 50px; overflow: hidden; background-size: 75%; background-position: center center; background-repeat: no-repeat; background-image: url("/assets/images/icons/tw.png"); }
+
+footer .footer-social-links1:hover { transform: scale 0.95; }
+
+footer .footer-social-links2 { display: flex; flex-direction: row; justify-content: center; height: 50px; width: 100%; max-width: 0 0 25px 0; }
+
+footer .footer-social-links2 .social-icon-wrap { transition: all 0.2s ease-in; display: inline-block; height: 50px; width: 50px; overflow: hidden; background-size: 75%; background-position: center center; background-repeat: no-repeat; background-image: url("/assets/images/icons/ig.png"); }
+
+footer .footer-social-links2:hover { transform: scale 0.95; }
+
+footer .footer-email { transition: all 0.2 ease-in; font-size: "Pathway Gothic One", sans-serif; font-size: 1em; color: #fff; }
+
+footer .footer-email:hover { color: #e44742; }
+
+.img-wide { grid-column: 2 / 8; width: 100%; height: 70vh; object-fit: cover; }
+
+.img-small { grid-column: 3 / 7; width: 100%; height: 30vh; object-fit: cover; }
+
+/*# sourceMappingURL=main.css.map */

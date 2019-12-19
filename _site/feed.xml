@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-19T18:03:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/12/19/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-12-19T17:57:44-05:00</published><updated>2019-12-19T17:57:44-05:00</updated><id>http://localhost:4000/jekyll/update/2019/12/19/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/12/19/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">INTRODUCCION</title><link href="http://localhost:4000/2019/12/17/uno.html" rel="alternate" type="text/html" title="INTRODUCCION" /><published>2019-12-17T00:00:00-05:00</published><updated>2019-12-17T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/17/uno</id><content type="html" xml:base="http://localhost:4000/2019/12/17/uno.html">&lt;h2 id=&quot;definicion-de-ingenieria-en-software&quot;&gt;Definicion de Ingenieria en software&lt;/h2&gt;
+
+&lt;p&gt;La Ingeniería del Software es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.&lt;/p&gt;
+
+&lt;h2 id=&quot;diferencia--entre-ingenieria-de-software-y-computacion&quot;&gt;Diferencia  entre Ingenieria de Software y Computacion&lt;/h2&gt;
+
+&lt;p&gt;La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.
+ La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software. 
+ Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-es-el-software&quot;&gt;Que es el Software?&lt;/h2&gt;
+
+&lt;p&gt;Programas de cómputo y su documentacion asociada.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-contiene-el-software&quot;&gt;Que contiene el software?&lt;/h2&gt;
+
+&lt;p&gt;El software contiene: 
+◦ Líneas de código de algún lenguaje
+◦ Instrucciones de computadora. 
+◦ Descripción de las estructuras de datos. 
+◦ Algoritmos. 
+◦ Procedimientos y funciones. 
+◦ Componentes de software.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-tipos-de-software-hay&quot;&gt;Que tipos de software hay?&lt;/h2&gt;
+
+&lt;p&gt;Por su estructura:&lt;/p&gt;
+
+&lt;p&gt;Funcionales.
+ Orientados a objetos.
+ Orientados a listas.
+ Orientados a componentes.&lt;/p&gt;
+
+&lt;p&gt;Por su funcion:&lt;/p&gt;
+
+&lt;p&gt;Programas.
+ Sistemas de Usuario. 
+ Interfaces Hombre-Maquina. 
+ Herramientas de Software. 
+ Librerias 
+ Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.
+ Bases de Datos. 
+ Sistemas basados en Web.&lt;/p&gt;
+
+&lt;p&gt;Por su plataforma de computo:&lt;/p&gt;
+
+&lt;p&gt;Sistemas embebidos. 
+  Sistemas de computo distribuido. 
+  Sistemas de computo paralelo. 
+  Sistemas de tiempo real. 
+  Sistemas basados en Chips. 
+  Wearable computing systems.
+  Sistemas de computo ubiquos.&lt;/p&gt;
+
+&lt;p&gt;Proceso Genérico de Software&lt;/p&gt;
+
+&lt;p&gt;Especificación: establecer los requerimientos y restricciones del sistema.&lt;/p&gt;
+
+&lt;p&gt;Diseño: Producir un modelo en papel del sistema.&lt;/p&gt;
+
+&lt;p&gt;Manufactura: construir el sistema.&lt;/p&gt;
+
+&lt;p&gt;Prueba: verificar que el sistema cumpla con las especificaciones requeridas.&lt;/p&gt;
+
+&lt;p&gt;Instalación: entregar el sistema al usuario y asegurar su operacionalidad.&lt;/p&gt;
+
+&lt;p&gt;Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.&lt;/p&gt;</content><author><name></name></author><summary type="html">Definicion de Ingenieria en software</summary></entry><entry><title type="html">Fernando Daniel Jacome Veliz</title><link href="http://localhost:4000/2019/12/17/siete.html" rel="alternate" type="text/html" title="Fernando Daniel Jacome Veliz" /><published>2019-12-17T00:00:00-05:00</published><updated>2019-12-17T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/17/siete</id><content type="html" xml:base="http://localhost:4000/2019/12/17/siete.html">&lt;p&gt;Nombre: Fernando Daniel Jácome Véliz&lt;/p&gt;
+
+&lt;p&gt;Edad: 17 años&lt;/p&gt;
+
+&lt;p&gt;Fecha de nacimiento: 20 de mayo del 2002&lt;/p&gt;
+
+&lt;p&gt;Ciudad de origen: Vinces, Los Rios, Ecuador&lt;/p&gt;
+
+&lt;p&gt;Ciuadad residencial: Babahoyo, Los Rios, Ecuador&lt;/p&gt;
+
+&lt;p&gt;Estudios: Colegio Padre Marcos Benetazzo&lt;/p&gt;
+
+&lt;p&gt;CI: 1250360672&lt;/p&gt;</content><author><name></name></author><summary type="html">Nombre: Fernando Daniel Jácome Véliz</summary></entry><entry><title type="html">SEIS</title><link href="http://localhost:4000/2019/12/17/seis.html" rel="alternate" type="text/html" title="SEIS" /><published>2019-12-17T00:00:00-05:00</published><updated>2019-12-17T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/17/seis</id><content type="html" xml:base="http://localhost:4000/2019/12/17/seis.html">&lt;h2 id=&quot;definicion-de-ingenieria-en-software&quot;&gt;Definicion de Ingenieria en software&lt;/h2&gt;
+
+&lt;p&gt;La Ingeniería del Software es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.&lt;/p&gt;
+
+&lt;h2 id=&quot;diferencia--entre-ingenieria-de-software-y-computacion&quot;&gt;Diferencia  entre Ingenieria de Software y Computacion&lt;/h2&gt;
+
+&lt;p&gt;La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.
+ La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software. 
+ Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-es-el-software&quot;&gt;Que es el Software?&lt;/h2&gt;
+
+&lt;p&gt;Programas de cómputo y su documentacion asociada.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-contiene-el-software&quot;&gt;Que contiene el software?&lt;/h2&gt;
+
+&lt;p&gt;El software contiene: 
+◦ Líneas de código de algún lenguaje
+◦ Instrucciones de computadora. 
+◦ Descripción de las estructuras de datos. 
+◦ Algoritmos. 
+◦ Procedimientos y funciones. 
+◦ Componentes de software.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-tipos-de-software-hay&quot;&gt;Que tipos de software hay?&lt;/h2&gt;
+
+&lt;p&gt;Por su estructura:&lt;/p&gt;
+
+&lt;p&gt;Funcionales.
+ Orientados a objetos.
+ Orientados a listas.
+ Orientados a componentes.&lt;/p&gt;
+
+&lt;p&gt;Por su funcion:&lt;/p&gt;
+
+&lt;p&gt;Programas.
+ Sistemas de Usuario. 
+ Interfaces Hombre-Maquina. 
+ Herramientas de Software. 
+ Librerias 
+ Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.
+ Bases de Datos. 
+ Sistemas basados en Web.&lt;/p&gt;
+
+&lt;p&gt;Por su plataforma de computo:&lt;/p&gt;
+
+&lt;p&gt;Sistemas embebidos. 
+  Sistemas de computo distribuido. 
+  Sistemas de computo paralelo. 
+  Sistemas de tiempo real. 
+  Sistemas basados en Chips. 
+  Wearable computing systems.
+  Sistemas de computo ubiquos.&lt;/p&gt;
+
+&lt;p&gt;Proceso Genérico de Software&lt;/p&gt;
+
+&lt;p&gt;Especificación: establecer los requerimientos y restricciones del sistema.&lt;/p&gt;
+
+&lt;p&gt;Diseño: Producir un modelo en papel del sistema.&lt;/p&gt;
+
+&lt;p&gt;Manufactura: construir el sistema.&lt;/p&gt;
+
+&lt;p&gt;Prueba: verificar que el sistema cumpla con las especificaciones requeridas.&lt;/p&gt;
+
+&lt;p&gt;Instalación: entregar el sistema al usuario y asegurar su operacionalidad.&lt;/p&gt;
+
+&lt;p&gt;Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.&lt;/p&gt;</content><author><name></name></author><summary type="html">Definicion de Ingenieria en software</summary></entry><entry><title type="html">Cinco</title><link href="http://localhost:4000/2019/12/17/cinco.html" rel="alternate" type="text/html" title="Cinco" /><published>2019-12-17T00:00:00-05:00</published><updated>2019-12-17T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/17/cinco</id><content type="html" xml:base="http://localhost:4000/2019/12/17/cinco.html">&lt;h2 id=&quot;definicion-de-ingenieria-en-software&quot;&gt;Definicion de Ingenieria en software&lt;/h2&gt;
+
+&lt;p&gt;La Ingeniería del Software es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.&lt;/p&gt;
+
+&lt;h2 id=&quot;diferencia--entre-ingenieria-de-software-y-computacion&quot;&gt;Diferencia  entre Ingenieria de Software y Computacion&lt;/h2&gt;
+
+&lt;p&gt;La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.
+ La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software. 
+ Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-es-el-software&quot;&gt;Que es el Software?&lt;/h2&gt;
+
+&lt;p&gt;Programas de cómputo y su documentacion asociada.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-contiene-el-software&quot;&gt;Que contiene el software?&lt;/h2&gt;
+
+&lt;p&gt;El software contiene: 
+◦ Líneas de código de algún lenguaje
+◦ Instrucciones de computadora. 
+◦ Descripción de las estructuras de datos. 
+◦ Algoritmos. 
+◦ Procedimientos y funciones. 
+◦ Componentes de software.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-tipos-de-software-hay&quot;&gt;Que tipos de software hay?&lt;/h2&gt;
+
+&lt;p&gt;Por su estructura:&lt;/p&gt;
+
+&lt;p&gt;Funcionales.
+ Orientados a objetos.
+ Orientados a listas.
+ Orientados a componentes.&lt;/p&gt;
+
+&lt;p&gt;Por su funcion:&lt;/p&gt;
+
+&lt;p&gt;Programas.
+ Sistemas de Usuario. 
+ Interfaces Hombre-Maquina. 
+ Herramientas de Software. 
+ Librerias 
+ Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.
+ Bases de Datos. 
+ Sistemas basados en Web.&lt;/p&gt;
+
+&lt;p&gt;Por su plataforma de computo:&lt;/p&gt;
+
+&lt;p&gt;Sistemas embebidos. 
+  Sistemas de computo distribuido. 
+  Sistemas de computo paralelo. 
+  Sistemas de tiempo real. 
+  Sistemas basados en Chips. 
+  Wearable computing systems.
+  Sistemas de computo ubiquos.&lt;/p&gt;
+
+&lt;p&gt;Proceso Genérico de Software&lt;/p&gt;
+
+&lt;p&gt;Especificación: establecer los requerimientos y restricciones del sistema.&lt;/p&gt;
+
+&lt;p&gt;Diseño: Producir un modelo en papel del sistema.&lt;/p&gt;
+
+&lt;p&gt;Manufactura: construir el sistema.&lt;/p&gt;
+
+&lt;p&gt;Prueba: verificar que el sistema cumpla con las especificaciones requeridas.&lt;/p&gt;
+
+&lt;p&gt;Instalación: entregar el sistema al usuario y asegurar su operacionalidad.&lt;/p&gt;
+
+&lt;p&gt;Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.&lt;/p&gt;</content><author><name></name></author><summary type="html">Definicion de Ingenieria en software</summary></entry><entry><title type="html">TIPOS DE SOFTWARE</title><link href="http://localhost:4000/2019/12/14/dos.html" rel="alternate" type="text/html" title="TIPOS DE SOFTWARE" /><published>2019-12-14T00:00:00-05:00</published><updated>2019-12-14T00:00:00-05:00</updated><id>http://localhost:4000/2019/12/14/dos</id><content type="html" xml:base="http://localhost:4000/2019/12/14/dos.html">&lt;p&gt;Por su estructura:&lt;/p&gt;
+
+&lt;p&gt;Funcionales.&lt;/p&gt;
+
+&lt;p&gt;Orientados a objetos.&lt;/p&gt;
+
+&lt;p&gt;Orientados a listas.&lt;/p&gt;
+
+&lt;p&gt;Orientados a componentes.&lt;/p&gt;
+
+&lt;p&gt;Por su funcion:&lt;/p&gt;
+
+&lt;p&gt;Programas.&lt;/p&gt;
+
+&lt;p&gt;Sistemas de Usuario.&lt;/p&gt;
+
+&lt;p&gt;Interfaces Hombre-Maquina.&lt;/p&gt;
+
+&lt;p&gt;Herramientas de Software.&lt;/p&gt;
+
+&lt;p&gt;Librerias ◦ Librerias.&lt;/p&gt;
+
+&lt;p&gt;Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.&lt;/p&gt;
+
+&lt;p&gt;Bases de Datos.&lt;/p&gt;
+
+&lt;p&gt;Sistemas basados en Web.&lt;/p&gt;
+
+&lt;p&gt;Por su plataforma de computo:&lt;/p&gt;
+
+&lt;p&gt;Sistemas embebidos.&lt;/p&gt;
+
+&lt;p&gt;Sistemas de computo distribuido.&lt;/p&gt;
+
+&lt;p&gt;Sistemas de computo paralelo.&lt;/p&gt;
+
+&lt;p&gt;Sistemas de tiempo real.&lt;/p&gt;
+
+&lt;p&gt;Sistemas basados en Chips.&lt;/p&gt;
+
+&lt;p&gt;Wearable computing systems.&lt;/p&gt;
+
+&lt;p&gt;Sistemas de computo ubiquos.&lt;/p&gt;
+
+&lt;h2 id=&quot;proceso-genérico-de-software&quot;&gt;Proceso Genérico de Software&lt;/h2&gt;
+&lt;p&gt;Especificación: establecer los requerimientos y restricciones del sistema.&lt;/p&gt;
+
+&lt;p&gt;Diseño: Producir un modelo en papel del sistema.&lt;/p&gt;
+
+&lt;p&gt;Manufactura: construir el sistema.&lt;/p&gt;
+
+&lt;p&gt;Prueba: verificar que el sistema cumpla con las especificaciones requeridas.&lt;/p&gt;
+
+&lt;p&gt;Instalación: entregar el sistema al usuario y asegurar su operacionalidad.&lt;/p&gt;
+
+&lt;p&gt;Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.&lt;/p&gt;</content><author><name></name></author><summary type="html">Por su estructura:</summary></entry><entry><title type="html">PRODUCTOS SOFTWARE</title><link href="http://localhost:4000/2019/02/15/tres.html" rel="alternate" type="text/html" title="PRODUCTOS SOFTWARE" /><published>2019-02-15T00:00:00-05:00</published><updated>2019-02-15T00:00:00-05:00</updated><id>http://localhost:4000/2019/02/15/tres</id><content type="html" xml:base="http://localhost:4000/2019/02/15/tres.html">&lt;p&gt;Productos genéricos.&lt;/p&gt;
+
+&lt;p&gt;Productos que son producidos por una organización para ser vendidos al mercado.
+Productos hechos a medida.
+Sistemas que son desarrollados bajo pedido a un desarrollador específico.
+La mayor parte del gasto del software es en productos genéricos pero hay más en productos genéricos, pero hay más esfuerzo en el desarrollo de los sistemas hechos a medida.&lt;/p&gt;
+&lt;p&gt;
+&lt;img class=&quot;img-wide&quot; src=   /assets/images/12.png&gt;
+&lt;/p&gt;
+&lt;p&gt;Características de los Productos de Software &lt;/p&gt;
+
+ 
+&lt;p&gt;Mantenibles: Debe ser posible que el software evolucione y que siga cumpliendo con sus especificaciones.&lt;/p&gt;
+ 
+&lt;p&gt;Confiabilidad: El software no debe causar danos físicos o económicos en el caso de fallos. &lt;/p&gt;
+
+&lt;p&gt;Eficiencia: El software no debe desperdiciar los recursos del sistema. &lt;/p&gt;
+
+&lt;p&gt;Utilización adecuada: El software debe contar con una interfaz de usuario adecuada y su documentación&lt;/p&gt;</content><author><name></name></author><summary type="html">Productos genéricos.</summary></entry><entry><title type="html">Cuatro</title><link href="http://localhost:4000/2019/01/16/cuatro.html" rel="alternate" type="text/html" title="Cuatro" /><published>2019-01-16T00:00:00-05:00</published><updated>2019-01-16T00:00:00-05:00</updated><id>http://localhost:4000/2019/01/16/cuatro</id><content type="html" xml:base="http://localhost:4000/2019/01/16/cuatro.html">&lt;h2 id=&quot;definicion-de-ingenieria-en-software&quot;&gt;Definicion de Ingenieria en software&lt;/h2&gt;
+
+&lt;p&gt;La Ingeniería del Software es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.&lt;/p&gt;
+
+&lt;h2 id=&quot;diferencia--entre-ingenieria-de-software-y-computacion&quot;&gt;Diferencia  entre Ingenieria de Software y Computacion&lt;/h2&gt;
+
+&lt;p&gt;La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.
+ La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software. 
+ Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-es-el-software&quot;&gt;Que es el Software?&lt;/h2&gt;
+
+&lt;p&gt;Programas de cómputo y su documentacion asociada.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-contiene-el-software&quot;&gt;Que contiene el software?&lt;/h2&gt;
+
+&lt;p&gt;El software contiene: 
+◦ Líneas de código de algún lenguaje
+◦ Instrucciones de computadora. 
+◦ Descripción de las estructuras de datos. 
+◦ Algoritmos. 
+◦ Procedimientos y funciones. 
+◦ Componentes de software.&lt;/p&gt;
+
+&lt;h2 id=&quot;que-tipos-de-software-hay&quot;&gt;Que tipos de software hay?&lt;/h2&gt;
+
+&lt;p&gt;Por su estructura:&lt;/p&gt;
+
+&lt;p&gt;Funcionales.
+ Orientados a objetos.
+ Orientados a listas.
+ Orientados a componentes.&lt;/p&gt;
+
+&lt;p&gt;Por su funcion:&lt;/p&gt;
+
+&lt;p&gt;Programas.
+ Sistemas de Usuario. 
+ Interfaces Hombre-Maquina. 
+ Herramientas de Software. 
+ Librerias 
+ Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.
+ Bases de Datos. 
+ Sistemas basados en Web.&lt;/p&gt;
+
+&lt;p&gt;Por su plataforma de computo:&lt;/p&gt;
+
+&lt;p&gt;Sistemas embebidos. 
+  Sistemas de computo distribuido. 
+  Sistemas de computo paralelo. 
+  Sistemas de tiempo real. 
+  Sistemas basados en Chips. 
+  Wearable computing systems.
+  Sistemas de computo ubiquos.&lt;/p&gt;
+
+&lt;p&gt;Proceso Genérico de Software&lt;/p&gt;
+
+&lt;p&gt;Especificación: establecer los requerimientos y restricciones del sistema.&lt;/p&gt;
+
+&lt;p&gt;Diseño: Producir un modelo en papel del sistema.&lt;/p&gt;
+
+&lt;p&gt;Manufactura: construir el sistema.&lt;/p&gt;
+
+&lt;p&gt;Prueba: verificar que el sistema cumpla con las especificaciones requeridas.&lt;/p&gt;
+
+&lt;p&gt;Instalación: entregar el sistema al usuario y asegurar su operacionalidad.&lt;/p&gt;
+
+&lt;p&gt;Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.&lt;/p&gt;</content><author><name></name></author><summary type="html">Definicion de Ingenieria en software</summary></entry></feed>
