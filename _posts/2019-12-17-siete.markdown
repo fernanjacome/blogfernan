@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  Fernando Daniel Jacome Veliz
 description: Actualmente estoy cursando la carrera de Ingenieria en Software en la Universidad Estatal de Guayaquil.
 ---
