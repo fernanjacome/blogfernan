@@ -1,7 +1,43 @@
 ---
-title: Blog de Introducción a Ingenieria en Software
-description: Pagina web creada para la clase de Introducción a Ingenieria en Software
-layout: home
+layout: default
 ---
-## Most Recent Posts
 
+<h2>Post Principal</h2>
+
+<ul class="myposts">
+    {% for post in site.posts limit:1 %}
+    <div class="blog-post">
+        <a class="blog__title" href="{{ post.url }}">{{ post.title }}</a>
+        <p class="post__desc">
+            {{ post.description }}
+        </p>
+        <a class="blog__link" href="{{ post.url }}">Leer mas</a>
+    </div> 
+    {% endfor %}
+</ul>
+
+<section class="older-post">
+    <h2>Todo</h2>
+        {% for post in site.posts limit:9 %}    
+            <div class="blog-post">
+                <a class="blog__title" href="{{ post.url }}">{{ post.title }}</a>
+                <p class="post__desc">
+                    {{ post.description }}
+                </p>
+                <a class="blog__link" href="{{ post.url }}">Leer mas</a>
+            </div> 
+            {% endfor %}
+</section>
+
+<section class="sobre-mi">
+    <h2>Sobre Mí</h2>
+        {% for post in site.posts limit:1 offset:1 %}    
+            <div class="about-me">
+                <a class="page__title" href="{{ post.url }}">{{ post.title }}</a>
+                <p class="page__desc">
+                    {{ post.description }}
+                </p>
+                <a class="page__link" href="{{ post.url }}">Leer mas</a>
+            </div> 
+            {% endfor %}
+</section>
