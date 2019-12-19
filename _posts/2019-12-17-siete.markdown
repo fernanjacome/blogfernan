@@ -1,0 +1,19 @@
+---
+layout: default
+title:  Fernando Daniel Jacome Veliz
+description: Actualmente estoy cursando la carrera de Ingenieria en Software en la Universidad Estatal de Guayaquil.
+---
+
+Nombre: Fernando Daniel Jácome Véliz
+
+Edad: 17 años
+
+Fecha de nacimiento: 20 de mayo del 2002
+
+Ciudad de origen: Vinces, Los Rios, Ecuador
+
+Ciuadad residencial: Babahoyo, Los Rios, Ecuador
+
+Estudios: Colegio Padre Marcos Benetazzo
+
+CI: 1250360672

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fernando Jacome Blog</title>
+    <link rel="stylesheet" href={{ "assets/css/main.css" | relative_url }}>
+</head>
+
+<body>
+    <div class="title-area">
+        <img src={{ "assets/images/logo.png" | relative_url }} class="logo">
+    
+        <h1> {{ page.title }} </h1>
+       <p class="sub-title"> {{ page.description }}</p>
+
+    </div>
+
+     {{ content }} 
+
+     <footer class="footer-wrapper">
+        <div id="Contacts">
+            <h2>Contacts</h2>
+            <p>Si desea puede visitar mis redes sociales</p>
+        </div>
+        <div class="footer-social-links">
+            <a href="{{ site.facebook_username }}" target="_blank" class="social-icon-wrap footer-facebook-wrapper"></a>
+        </div>
+        <div class="footer-social-links1"> 
+            <a href="{{ site.twitter_username }}" target="_blank" class="social-icon-wrap footer-twitter-wrapper"></a>
+        </div>
+        <div class="footer-social-links2">  
+        <a href="{{ site.instagram_username }}" target="_blank" class="social-icon-wrap footer-instagram-wrapper"></a>
+        </div>
+        <a href="mailto:{{ site.email }}" class="footer-email">{{ site.email }}</a>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,78 @@
+---
+layout: default
+title:  Cuatro
+description: Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.
+---
+
+## Definicion de Ingenieria en software
+
+
+La Ingeniería del Software es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.
+
+
+## Diferencia  entre Ingenieria de Software y Computacion 
+
+ La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.
+ La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software. 
+ Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.
+
+
+## Que es el Software? 
+
+Programas de cómputo y su documentacion asociada.
+
+## Que contiene el software?
+
+El software contiene: 
+◦ Líneas de código de algún lenguaje
+◦ Instrucciones de computadora. 
+◦ Descripción de las estructuras de datos. 
+◦ Algoritmos. 
+◦ Procedimientos y funciones. 
+◦ Componentes de software.
+
+
+## Que tipos de software hay?
+
+Por su estructura: 
+
+ Funcionales.
+ Orientados a objetos.
+ Orientados a listas.
+ Orientados a componentes. 
+
+Por su funcion: 
+
+ Programas.
+ Sistemas de Usuario. 
+ Interfaces Hombre-Maquina. 
+ Herramientas de Software. 
+ Librerias 
+ Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.
+ Bases de Datos. 
+ Sistemas basados en Web.
+
+ Por su plataforma de computo: 
+ 
+  Sistemas embebidos. 
+  Sistemas de computo distribuido. 
+  Sistemas de computo paralelo. 
+  Sistemas de tiempo real. 
+  Sistemas basados en Chips. 
+  Wearable computing systems.
+  Sistemas de computo ubiquos. 
+
+Proceso Genérico de Software
+
+ Especificación: establecer los requerimientos y restricciones del sistema. 
+ 
+ Diseño: Producir un modelo en papel del sistema.
+ 
+ Manufactura: construir el sistema.
+ 
+ Prueba: verificar que el sistema cumpla con las especificaciones requeridas.
+ 
+ Instalación: entregar el sistema al usuario y asegurar su operacionalidad.
+ 
+ Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.
+ 

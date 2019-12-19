@@ -1,0 +1,64 @@
+---
+layout: default
+title:  TIPOS DE SOFTWARE
+description: Tipos de software con su respectivo significado incluyendo caracterisiticas.
+---
+
+Por su estructura: 
+
+ Funcionales.
+ 
+ Orientados a objetos.
+ 
+ Orientados a listas.
+ 
+ Orientados a componentes. 
+
+Por su funcion: 
+
+ Programas.
+ 
+ Sistemas de Usuario. 
+ 
+ Interfaces Hombre-Maquina. 
+ 
+ Herramientas de Software. 
+ 
+ Librerias ◦ Librerias. 
+ 
+ Sistemas de uso generico: Compiladores, S.O’s, Procesadores de Texto, etc.
+ 
+ Bases de Datos. 
+ 
+ Sistemas basados en Web.
+
+ Por su plataforma de computo: 
+ 
+  Sistemas embebidos. 
+  
+  Sistemas de computo distribuido. 
+  
+  Sistemas de computo paralelo. 
+  
+  Sistemas de tiempo real. 
+  
+  Sistemas basados en Chips. 
+  
+  Wearable computing systems.
+  
+  Sistemas de computo ubiquos. 
+  
+Proceso Genérico de Software
+-- 
+ Especificación: establecer los requerimientos y restricciones del sistema. 
+ 
+ Diseño: Producir un modelo en papel del sistema.
+ 
+ Manufactura: construir el sistema.
+ 
+ Prueba: verificar que el sistema cumpla con las especificaciones requeridas.
+ 
+ Instalación: entregar el sistema al usuario y asegurar su operacionalidad.
+ 
+ Mantenimiento: reparar fallos en el sistema cundo sea descubiertos.
+ 
